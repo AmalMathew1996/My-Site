@@ -1,0 +1,60 @@
+ body {
+	margin: 0;
+	padding: 0;
+/*	 background-image: url("../Images/free-black-and-white-snowflake-clipart.jpg");*/
+}
+.navbar {
+	font-weight: 700;
+	font-size: .9rem;
+	letter-spacing: .1rem;
+	background: rgba(0, 0, 0, .6)!important;
+	text-transform: uppercase;
+}
+.nav-item {
+	padding: 0 15px;
+}
+.nav-link {
+	color: #FFFFFF;
+}
+.container-fluid {
+	padding: 0;
+	text-align: center
+}
+.portrait-heading {
+	text-align: center;
+	color: #FFFFFF;
+	padding: 20px 0 20px;
+}
+.drawing-pic img {
+	width:inherit;
+	height: auto;
+}
+#portraits {
+	padding: 0 15% 0%;
+	position: relative;
+	background-color: #454545;
+	margin: 50px;
+}
+#digital-arts {
+	padding: 0 15% 10%;
+	position: relative;
+	background-color: #454545;
+	margin: 50px;
+}
+.btn {
+	margin: 15%;
+}
+#about {
+	background-color: #000000;
+	color: #FFFDFD;
+}
+.about {
+	padding: 80px;
+}
+#footer {
+	padding: 45px 0px 0px;
+}
+.social-icon {
+	margin: 20px 10px;
+	
+}
